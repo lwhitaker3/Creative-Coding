@@ -558,7 +558,7 @@ dateSet["category2"] = new StringSet().addAll(
   "Have a fondue night"
 );
 dateSet["category3"] = new StringSet().addAll(
-  "Visit a on of the top ten tourist attractions in your city",
+  "Go to one of the top ten tourist attractions in your city",
   "Find a good brunch place",
   "Go see a movie",
   "Have a picnic at a park",
@@ -620,7 +620,7 @@ dateSet["category5"] = new StringSet().addAll(
   "Have a fondue night"
 );
 dateSet["category6"] = new StringSet().addAll(
-  "Visit a on of the top ten tourist attractions in your city",
+  "Go to one of the top ten tourist attractions in your city",
   "Find a good brunch place",
   "Stargaze",
   "Have a picnic at a park",
@@ -664,7 +664,7 @@ dateSet["category7"] = new StringSet().addAll(
   "Go to an arcade"
 );
 dateSet["category8"] = new StringSet().addAll(
-  "Visit a on of the top ten tourist attractions in your city",
+  "Go to one of the top ten tourist attractions in your city",
   "Find a new bar",
   "Go dancing",
   "Try a new restaurant",
@@ -705,7 +705,7 @@ weatherSet["cloud"] = new StringSet().addAll(
   "Have a game night",
   "Bake cookies",
   "Find movie you have both never seen on Netflix",
-  "Visit a on of the top ten tourist attractions in your city",
+  "Go to one of the top ten tourist attractions in your city",
   "Find a good brunch place",
   "Create your own recipe",
   "Go get coffee",
@@ -762,7 +762,7 @@ weatherSet["partsun"] = new StringSet().addAll(
   "Have a game night",
   "Bake cookies",
   "Find movie you have both never seen on Netflix",
-  "Visit a on of the top ten tourist attractions in your city",
+  "Go to one of the top ten tourist attractions in your city",
   "Find a good brunch place",
   "Create your own recipe",
   "Go get coffee",
@@ -817,7 +817,7 @@ weatherSet["clear"] = new StringSet().addAll(
   "Have a game night",
   "Bake cookies",
   "Find movie you have both never seen on Netflix",
-  "Visit a on of the top ten tourist attractions in your city",
+  "Go to one of the top ten tourist attractions in your city",
   "Find a good brunch place",
   "Create your own recipe",
   "Go get coffee",
@@ -1071,7 +1071,7 @@ tempSet["under70"] = new StringSet().addAll(
   "Have a game night",
   "Bake cookies",
   "Find movie you have both never seen on Netflix",
-  "Visit a on of the top ten tourist attractions in your city",
+  "Go to one of the top ten tourist attractions in your city",
   "Find a good brunch place",
   "Create your own recipe",
   "Go get coffee",
@@ -1111,7 +1111,7 @@ tempSet["over70"] = new StringSet().addAll(
   "Have a game night",
   "Bake cookies",
   "Find movie you have both never seen on Netflix",
-  "Visit a on of the top ten tourist attractions in your city",
+  "Go to one of the top ten tourist attractions in your city",
   "Find a good brunch place",
   "Create your own recipe",
   "Go get coffee",
